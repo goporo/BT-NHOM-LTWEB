@@ -41,7 +41,7 @@ body {
 
 .wrapper .left {
   width: 35%;
-  background: linear-gradient(to right, #01a9ac, #01dbdf);
+  background: linear-gradient(to right, #1aa37a, #9dffb3);
   padding: 30px 25px;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
@@ -116,7 +116,7 @@ body {
 .wrapper .social_media ul li {
   width: 45px;
   height: 45px;
-  background: linear-gradient(to right, #01a9ac, #01dbdf);
+  background: #22e396;
   margin-right: 10px;
   border-radius: 5px;
   text-align: center;
